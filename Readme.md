@@ -39,26 +39,26 @@ node_modules/react-native-charts-wrapper/ios to topLevel your project
 Create Objective C briding header, give it name ChartExample-Briding-Header.h    (rename ChartExample to your project name)
 
 <p align="center">
-  <img src="https://github.com/hungdev/react-native-charts-wrapper-example-swift4/blob/master/img/img1.png?raw=true" width=360/>
+  <img src="https://github.com/hungdev/react-native-charts-wrapper-example-swift4/blob/master/img/img1.png?raw=true" width=720/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/hungdev/react-native-charts-wrapper-example-swift4/blob/master/img/img2.png?raw=true" width=360/>
+  <img src="https://github.com/hungdev/react-native-charts-wrapper-example-swift4/blob/master/img/img2.png?raw=true" width=720/>
 </p>
 
 
 Create Objective C briding header, give it name ChartExample-Briding-Header.h    (rename ChartExample to your project name)
 
 <p align="center">
-  <img src="https://github.com/hungdev/react-native-charts-wrapper-example-swift4/blob/master/img/img3.png?raw=true" width=360/>
+  <img src="https://github.com/hungdev/react-native-charts-wrapper-example-swift4/blob/master/img/img3.png?raw=true" width=720/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/hungdev/react-native-charts-wrapper-example-swift4/blob/master/img/img4.png?raw=true" width=360/>
+  <img src="https://github.com/hungdev/react-native-charts-wrapper-example-swift4/blob/master/img/img4.png?raw=true" width=720/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/hungdev/react-native-charts-wrapper-example-swift4/blob/master/img/img5.png?raw=true" width=360/>
+  <img src="https://github.com/hungdev/react-native-charts-wrapper-example-swift4/blob/master/img/img5.png?raw=true" width=720/>
 </p>
 
 add lines to that file:
@@ -79,7 +79,7 @@ Add your ChartExample-Bridging-Header.h to Build Settings -> Swift Compiler-Gene
 in field Swift language version, chose swift 4.1
 
 <p align="center">
-  <img src="https://github.com/hungdev/react-native-charts-wrapper-example-swift4/blob/master/img/img5.png?raw=true" width=360/>
+  <img src="https://github.com/hungdev/react-native-charts-wrapper-example-swift4/blob/master/img/img5.png?raw=true" width=720/>
 </p>
 
 
