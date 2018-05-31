@@ -83,6 +83,8 @@ in field Swift language version, chose swift 4.1
 </p>
 
 
+note: setup with swift 3 version: https://github.com/hungdev/react-native-charts-wrapper-example-swift3
+
 Your may be interested in this article Detail Guide provided by contributor, but some configure in it is outdated, like missing #import "React/RCTFont.h" in Bridge Header.
 
 https://medium.com/skyshidigital/make-chart-in-react-native-671910254e9b
