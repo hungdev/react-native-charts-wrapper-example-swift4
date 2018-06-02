@@ -1,4 +1,5 @@
-import { AppRegistry } from 'react-native';
-import App from './App';
+import { AppRegistry } from 'react-native'
+console.disableYellowBox = true
+import App from './App'
 
-AppRegistry.registerComponent('ChartExample', () => App);
+AppRegistry.registerComponent('ChartExample', () => App)
