@@ -1,5 +1,11 @@
 this example is demo of React Native Charts Wrapper lib.
 
+steps are setup ios first, after that android.
+
+# LOOK MY COMMIT IF YOU GET ERROR
+
+[Commit](https://github.com/hungdev/react-native-charts-wrapper-example-swift4/commits/master)
+
 step:
 
 npm install --save react-native-charts-wrapper
